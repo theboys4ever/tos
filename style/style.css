@@ -16,6 +16,10 @@ body{
 h1{
     font-size: 50px;
 }
+    
+.music {
+    display: none;
+}
 
 .btn{
     color: #fff;
